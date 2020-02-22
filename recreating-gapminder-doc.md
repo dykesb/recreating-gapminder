@@ -251,6 +251,11 @@ course. Which is more?
 
 <img src = "recreating-gapminder-doc_files/ept.png">
 
+From [Cleveland & McGill
+(1984)](https://www.jstor.org/stable/2288400?seq=2#metadata_info_tab_contents)
+and expanded by [Heer & Bostock
+(2010)](https://dl.acm.org/doi/10.1145/1753326.1753357)
+
 -----
 
 <img src = "recreating-gapminder-doc_files/ept-ranking.png">
