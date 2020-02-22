@@ -223,7 +223,41 @@ then combining them into a gif.
 
 ## If time …
 
-  - more with `size`
+### Perceptual tasks
+
+Adapted from Hadley Wickham’s
+[Stat 405](http://stat405.had.co.nz/lectures/20-effective-vis.pdf)
+course. Which is more?
+
+<img src = "recreating-gapminder-doc_files/aligned-axis.png" width="60%">
+
+-----
+
+<img src = "recreating-gapminder-doc_files/area.png" width="60%">
+
+-----
+
+<img src = "recreating-gapminder-doc_files/saturation.png" width="60%">
+
+-----
+
+<img src = "recreating-gapminder-doc_files/value.png" width="60%">
+
+-----
+
+<img src = "recreating-gapminder-doc_files/hue.png" width="60%">
+
+-----
+
+<img src = "recreating-gapminder-doc_files/ept.png">
+
+-----
+
+<img src = "recreating-gapminder-doc_files/ept-ranking.png">
+
+### More in R
+
+  - more with `size` (area = π r<sup>2</sup>)
   - `alpha`
   - themes: `theme_bw()`
   - labels and titles: `labs(title = '', x = '', y = '')`
