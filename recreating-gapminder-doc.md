@@ -18,7 +18,7 @@ years focusing on worldwide healthcare. He, his son, and his
 daughter-in-law co-founded the Gapminder Foundation to convert
 international statistics into interactive graphics to help visualize
 world development
-[wikipedia.org/Hans\_Rosling](https://en.wikipedia.org/wiki/Hans_Rosling#Trendalyzer_and_Gapminder).
+([wikipedia.org/Hans\_Rosling](https://en.wikipedia.org/wiki/Hans_Rosling#Trendalyzer_and_Gapminder)).
 
 [![Hans Rosling’s Bubble
 Chart](https://ichef.bbci.co.uk/images/ic/720x405/p02c35nh.jpg)](https://youtu.be/jbkSRLYSojo?t=29)
