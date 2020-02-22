@@ -1,7 +1,7 @@
 Recreating Gapminder
 ================
 
-This document:
+This document: [bit.ly/mia-dataviz-doc](http://bit.ly/mia-dataviz-doc)
 
 #### Objectives
 
@@ -46,7 +46,8 @@ data + mapping + geometric objects
 ### RStudio Cloud
 
 Join my RStudio Cloud **Math in Action - Data Visualizations in R**
-Workspace (<http://bit.ly/mia-dataviz>)
+Workspace:
+[bit.ly/mia-dataviz-rstudio](http://bit.ly/mia-dataviz-rstudio)
 
   - You will be asked to create a free account.
   - Once signed in, verify that you can a Project called
