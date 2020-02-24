@@ -45,14 +45,29 @@ data + mapping + geometric objects
 
 ### RStudio Cloud
 
-Join my RStudio Cloud **Math in Action - Data Visualizations in R**
-Workspace:
-[bit.ly/mia-dataviz-rstudio](http://bit.ly/mia-dataviz-rstudio)
+Open [RStudio Cloud](https://rstudio.cloud) and open the **Math in
+Action - Data Visualizations in R** Workspace.
+<!--[bit.ly/mia-dataviz-rstudio](http://bit.ly/mia-dataviz-rstudio)-->
 
   - You will be asked to create a free account.
   - Once signed in, verify that you can a Project called
     `recreating-gapminder`.
   - Click on it to start your RStudio session.
+
+#### If you were not at the Math in Action Presentation
+
+  - You will need to create a New Project (blue button)
+  - Once your project opens, type the following code in the **Console**
+    pane (lower left-hand pane). After typing each line, press Enter to
+    commit/run it.
+
+<!-- end list -->
+
+``` r
+install.packages("tidyverse")
+install.packages("gapminder")
+install.packages("gganimate")
+```
 
 ## Data visualization
 
@@ -76,8 +91,14 @@ library(gganimate)
 ?gapminder
 gapminder
 
-...
+# Build gapminder visualization
 ```
+
+**Note:** If you were not at the Math in Action presentation, create a
+new R script (File \> New File \> R Script). Save this project (File \>
+Save). In the *Save File* dialog box, name your file
+`recreating-gapminder.R`. Then, add the previous code into your R script
+(and save again\!).
 
   - Highlight lines 2 -4 of the R script and press Ctrl + Enter.
   - Put your cursor on line 7 (or highlight the entire line) and press
@@ -194,7 +215,7 @@ Hans also had the size of his bubbles represent how many people lived in
 each particular country. Update your previous code so that `pop` is
 mapped to the `size` of each point. Your plot should then look like:
 
-![](recreating-gapminder-doc_files/figure-gfm/unnamed-chunk-7-1.png)<!-- -->
+![](recreating-gapminder-doc_files/figure-gfm/unnamed-chunk-8-1.png)<!-- -->
 
 ### Animating it
 
